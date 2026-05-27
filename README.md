@@ -1,13 +1,9 @@
-﻿Here's the complete README file. Copy everything between the lines:
-
----
-
-```
+﻿
 # 🏥 Medical RAG Chatbot
 
 An AI-powered Medical Chatbot built using **RAG (Retrieval-Augmented Generation)** architecture. Upload any medical research paper and ask questions — the AI retrieves relevant content from your documents and generates accurate answers with source citations.
 
-LIVE DEMO :  Deployed on Streamlit Cloud — [Click here to try it](https://medical-rag-chatbot-project.streamlit.app)
+LIVE DEMO :  Deployed on Streamlit Cloud — (https://medical-rag-chatbot-project.streamlit.app)
 
 ---
 
