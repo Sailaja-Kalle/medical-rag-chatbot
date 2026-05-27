@@ -7,7 +7,7 @@
 
 An AI-powered Medical Chatbot built using **RAG (Retrieval-Augmented Generation)** architecture. Upload any medical research paper and ask questions — the AI retrieves relevant content from your documents and generates accurate answers with source citations.
 
-
+LIVE DEMO :  Deployed on Streamlit Cloud — [Click here to try it](https://medical-rag-chatbot-project.streamlit.app)
 
 ---
 
